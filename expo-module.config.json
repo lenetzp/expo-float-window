@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["FloatWindowModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.floatwindow.FloatWindowModule"]
+  }
+}
